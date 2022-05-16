@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+
+
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.nav-links a{
+    color: white;
+}

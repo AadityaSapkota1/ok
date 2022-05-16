@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+.bank{
+    margin: 240px 0 0 650px;
+}
+
+.deposit, .withdraw{
+   
+    width: fit-content;
+    
+}
+
+.balance{
+    margin: 40px 0 0 1000px;
+    height: 50px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    border-radius: 9px;
+    padding: 10px 0 0 220px;
+}
